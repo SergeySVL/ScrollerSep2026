@@ -11,7 +11,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Ice slippery
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1137125173
+    locked: 0
+  - name: Ice Slippery
+    uniqueID: 2048915565
     locked: 0
   - name: Traps
     uniqueID: 1783653389
